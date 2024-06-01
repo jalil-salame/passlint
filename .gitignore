@@ -1,0 +1,10 @@
+# Rust
+/target
+/.bacon-locations
+# Nix
+/result
+# Direnv
+/.direnv
+# Benchmarking
+/flamegraph.svg
+perf.data*
